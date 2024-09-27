@@ -13,5 +13,5 @@ let media= function(num1,num2, num3){
     return (num1+num2+num3)/3;
 }
 console.log(media(6,8,2));
-console.log(media(notas,8,2));
+console.log(media(notas,notas2,notas3));
 document.write(notas);
